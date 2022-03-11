@@ -1,0 +1,1 @@
+export const Color = 'rgb(57, 167, 57)';
